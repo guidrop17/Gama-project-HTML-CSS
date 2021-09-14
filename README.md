@@ -1,22 +1,29 @@
-# ProjetoXP1
+# ProjetoXP1 - Scrum 📅
 
-Scrum do projeto:
+> Status: Developing ⚠️
 
+## 1. Sprint (pagina principal):
 
-Sprint (pagina principal):
-
-  estoria (navbar) = 5 horas
+ 1.1.   Estoria (navbar) 
+    
+    ⌛ 5 horas
+    
+ 1.2.    Estoria (corpo c/ produtos)
+ 
+    ⌛ 10 horas
+    
+ 1.3.    Estoria (footer)
+ 
+    ⌛ 4 horas
   
-  estoria (corpo c/ produtos) = 10 horas
-  
-  estoria (footer) = 4 horas
-  
+## 2. Sprint (pagina descriçaõ do produto):
 
-Sprint (pagina descriçaõ do produto):
+ 2.1.    Estoria (corpo c/ descição do produto) 
+   
+    ⌛ 6 horas
 
-  estoria (corpo c/ descição do produto) = 6 horas
-  
+## 3. Sprint (pagina quem somos):
 
-Sprint (pagina quem somos):
+ 3.1.    Estoria (corpo c/ descrição da empresa)
 
-  estoria (corpo c/ descrição da empresa)
+    ⌛ 4 horas
