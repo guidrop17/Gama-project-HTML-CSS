@@ -5,7 +5,7 @@
 ## 1. Sprint (pagina principal):
 
  1.1.   Estoria (navbar)
-        Contendo a logo da marca e opçôes como: Home, Sobre e Contato.
+        Contendo a logo da marca e opçôes como: "Home", Sobre" e "Contato".
     
     ⌛ 5 horas
     
@@ -29,6 +29,6 @@
 ## 3. Sprint (pagina quem somos):
 
  3.1.    Estoria (corpo c/ descrição da empresa)
-         Contendo uma breve descição da empresa, quem somos e o que fazemos.
+         Contendo uma breve descição da empresa, "quem somos" e "o que fazemos".
 
     ⌛ 4 horas
