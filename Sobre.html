@@ -26,19 +26,19 @@
 
     <!-- Nav Bar-->
 
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <nav class="navbar navbar-expand-lg navbar-light">
 
         <div class="container-fluid">
 
-          <a class="navbar-brand" href="#"><img src="/Projeto 1/img/b.png" height="50" width="150"></a>
+          <a class="navbar-brand" href="/Index.html"><img src="/Projeto 1/img/b.png" height="50" width="150"></a>
 
-          <div class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        
+            <span class="bx bx-menu"></span>
 
-            <i class='bx bx-menu'></i>
+          </button>
 
-          </div>
-
-          <div class="collapse navbar-collapse">
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
             <ul class="navbar-nav ms-auto">
 
@@ -133,21 +133,155 @@
       
 <!--Footer-->
 
-  <footer class="fixed-bottom">
+<footer>
 
-    <a name="footer"></a>
-    
-    <div class="footer">
+  <a name="footer"></a>
 
-      <div class="container-fluid">
+  <div id="contact-area" class="mt-2">
 
-        <div class="row">
+    <div class="container-fluid contact-box">
 
-          <div class="col-md-12 mb-3 mt-3">
+      <div class="row">
+        
+        <div class="col-md-12">
 
-            <span>BEST BIKE | <span class='bx bx-copyright'></span> 2021 Todos os direitos reservados.</span>
+          <h3 class="main-title mt-5 mb-5" >Entre em contato conosco</h3>
+
+        </div>
+
+        <div class="col-md-4 contact-box">
+
+          <i class='bx bx-phone'></i>
+
+          <p ><span class="contact-title">Ligue para:</span> (19)99999-9999</p>
+
+        </div>
+
+        <div class="col-md-4 contact-box">
+
+          <i class='bx bx-envelope'></i>
+
+          <p ><span class="contact-title">Envie um E-mail:</span> bestbike@bestbike.com</p>
+          
+        </div>
+
+        <div class="col-md-4 contact-box">
+
+          <i class='bx bx-map'></i>
+
+          <p ><span class="contact-title">Venha tomar um café:</span> Rua das ruas, 9999</p>
+          
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+    <section class="container">
+
+      <p class="text-center">Ou nos deixe uma mensagem:</p>
+
+      <div class="row d-flex justify-content-center">
+
+          <div class="col-md-12">
+
+            <form action="">
+
+              <input type="Nome" class="form-control mb-3" placeholder="Nome" name="Nome">
+
+              <input type="email" class="form-control mb-3" placeholder="E-mail" name="Email">
+
+              <input type="text" class="form-control mb-3" placeholder="Assunto" name="Subject">
+
+              <textarea class="form-control" rows="4" placeholder="Sua mensagem..." name="Mensagem"></textarea>
+
+      
+              <div class="mt-3 mb-3 text-center">
+
+                <p>
+
+                  <a class="btn btn-primary btn-custom">
+
+                    Enviar  
+            
+                    <span type="Submit" class='bx bx-send img-circle text-primary btn-icon'></span>
+
+                  </a>
+
+                </p>
+
+              </div>
+
+            </form>
 
           </div>
+        
+        </div>
+
+      </div>
+
+    </section>
+
+    <section class="container">
+
+      <div class="row  d-flex justify-content-center">
+        <div class="col-md-12 mb-3">
+
+          <div id="map-container-google-2" class=" z-depth-1-half map-container">
+            <iframe src="https://maps.google.com/maps?q=chicago&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+            allowfullscreen></iframe>
+
+          </div>
+
+      </div>
+
+    </section>
+  
+  <div class="footer">
+
+    <div class="container-fluid">
+
+      <div class="row">
+
+        <div class="col-md-12 mb-3 mt-3">
+
+          <ul class="redes">
+
+            <li class="btn">
+            
+              <a href="https://www.instagram.com/guiaraujoac/"><i class='bx bxl-instagram'></i></a>
+    
+            </li>
+    
+            <li class="btn">
+            
+              <a href="https://www.facebook.com/guilherme.araujo.58910/"><i class='bx bxl-facebook' ></i></a>
+    
+            </li>
+
+            <li class="btn">
+            
+              <a href="https://www.linkedin.com/in/guilherme-araujo1700/"><i class='bx bxl-linkedin' ></i></a>
+    
+            </li>
+    
+            <li class="btn">
+            
+              <a href="https://www.youtube.com/"><i class='bx bxl-youtube' ></i></a>
+    
+            </li>
+    
+            <li class="btn">
+            
+              <a href="https://api.whatsapp.com/send?phone=555519983936527&text=oi"><i class='bx bxl-whatsapp' ></i></a>
+    
+            </li>
+    
+          </ul>
+
+          <span>BEST BIKE | <span class='bx bx-copyright'></span> 2021 Todos os direitos reservados.</span>
 
         </div>
 
@@ -155,7 +289,9 @@
 
     </div>
 
-  </footer>
+  </div>
+
+</footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 
