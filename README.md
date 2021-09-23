@@ -32,3 +32,7 @@
          Contendo uma breve descição da empresa, "quem somos" e "o que fazemos".
 
     ⌛ 4 horas
+    
+    
+    
+![foto](https://user-images.githubusercontent.com/29720117/134584989-b30a071b-c129-42e4-aee6-8572f00a0426.png)
