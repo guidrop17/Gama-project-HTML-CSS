@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+:root{
+
+    --body-font: 'Oswald';
+    --big-font-size: 2rem;
+    --h2-font-size: 1.25rem;
+    --intermedia-size:1.1rem;
+    --normal-font-size: 0.938rem;
+    --mini-font-size: 0.450rem;
+}
+
+:root{
+    --font-high: 800;
+    --font-semi: 600;
+    --font-normal: 400;
+    --font-mini: 200;
+
+  }
+
+:root{
+    --color-1: #fff;
+    --color-2: #000;
+    --color-3: #007bff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: var(--body-font);
+    font-size: var(--intermedia-size);
+}
+
+.navoption{
+  color:var(--color-2);
+}
+
+.navoption:hover{
+  color:var(--color-1);
+}
+
+#promo{
+ color: var(--color-1);
+}
+
+#mini{
+  font-size: var(--normal-font-size);
+}
+
+.bx-cart{
+  font-size: var(--h2-font-size) ;
+}
+
+
+/*Categoria*/
+
+#categoria {
+  opacity: 0.5;
+}
+
+#categoria:hover {
+  opacity: 1.0;
+}
+
+.linha{
+  background-color: var(--color-3);
+  height: 10px;
+  width: 20px;
+}
+
+/*Contato*/
+
+
+.contact-box{
+  color: black;
+  background-color: white;
+  text-align: center;
+
+}
+
+
+.contact-box1{
+  color: white;
+  background-color: black;
+  text-align: center;
+
+}
+
+
+/* Footer*/
+
+.btn-custom{
+  padding: 1px 15px 3px 2px;
+  border-radius: 50px;
+}
+
+.btn-icon{
+  padding: 8px;
+  background-color: #fff;
+  border-radius: 50px;
+}
+
+
+.footer{
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+
+.bx-phone{
+  font-size: var(--big-font-size);
+}
+
+.bx-envelope{
+  font-size: var(--big-font-size);
+}
+
+.bx-map{
+  font-size: var(--big-font-size);
+}
+
+.bxl-instagram{
+    text-decoration: none;
+    font-size: var(--h2-font-size);
+   
+}
+
+.bxl-facebook{
+  text-decoration: none;
+  font-size: var(--h2-font-size);
+  
+}
+
+.bxl-youtube{
+  text-decoration: none;
+  font-size: var(--h2-font-size);
+  
+}
+.bxl-whatsapp{
+  text-decoration: none;
+  font-size: var(--h2-font-size);
+ 
+}
+
+.map-container{
+  overflow:hidden;
+  padding-bottom:20%;
+  position:relative;
+  }
+  .map-container iframe{
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
+
