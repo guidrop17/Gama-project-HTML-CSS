@@ -1,3 +1,6 @@
+   
+# ![b](https://user-images.githubusercontent.com/29720117/134586744-9435fe12-b65c-41b3-98e4-75ca0b56281e.png)
+
 # ProjetoXP1 - Scrum 📅
 
 > Status: Developing ⚠️
@@ -33,6 +36,7 @@
 
     ⌛ 4 horas
     
-    
-    
-![foto](https://user-images.githubusercontent.com/29720117/134584989-b30a071b-c129-42e4-aee6-8572f00a0426.png)
+ 
+#Preview:
+
+![foto](https://user-images.githubusercontent.com/29720117/134586900-3c0a8192-1993-4dfa-80fb-206318baf632.png)
