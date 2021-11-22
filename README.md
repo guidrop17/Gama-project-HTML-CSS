@@ -1,9 +1,15 @@
-   
-# ![b](https://user-images.githubusercontent.com/29720117/134586744-9435fe12-b65c-41b3-98e4-75ca0b56281e.png)
+<div align="center">  
+   <img src="https://user-images.githubusercontent.com/29720117/134586744-9435fe12-b65c-41b3-98e4-75ca0b56281e.png">
+</div> 
+
+
+![foto](https://user-images.githubusercontent.com/29720117/134586900-3c0a8192-1993-4dfa-80fb-206318baf632.png)
+
+
 
 # ProjetoXP1 - Scrum 📅
 
-> Status: Developing ⚠️
+> Status: Concluido :white_check_mark:
 
 ## 1. Sprint (pagina principal):
 
@@ -37,9 +43,5 @@
     ⌛ 4 horas
     
  
-#Preview:
-
-![foto](https://user-images.githubusercontent.com/29720117/134586900-3c0a8192-1993-4dfa-80fb-206318baf632.png)
-
 
 ### Nos visite em: https://bestbike.netlify.app/
